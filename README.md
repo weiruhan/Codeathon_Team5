@@ -1,5 +1,8 @@
 # Predicting protein-protein interactions and networks using sequence data
 
+:snowflake:
+> Author: Weiru Han, Maryam Alavi, Coronell Tovar, Rohit Shukla, Pawan Thapaliya, Shamima Akter, Megan Mui
+
 This project involves the application of deep learning models to predict protein-protein interactions using sequence data.
 
 * Data source: 
