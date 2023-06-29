@@ -1,5 +1,4 @@
-:snowflake:
-# Predicting protein-protein interactions and networks using sequence data
+:snowflake: # Predicting protein-protein interactions and networks using sequence data
 
 This project involves the application of deep learning models to predict protein-protein interactions using sequence data.
 
