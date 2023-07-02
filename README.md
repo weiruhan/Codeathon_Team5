@@ -8,15 +8,17 @@ This project involves the application of deep learning models to predict prote
 * Data source: 
 
 > This data is collected from [STRING](https://string-db.org/cgi/download?sessionId=bnQFSPm1YRHj&species_text=Homo+sapiens) database, using **homo sapiens** as the organism of interest to restrict the data
+
+* Feature extraction
+we refer to the [(Shen 2007)](https://pubmed.ncbi.nlm.nih.gov/17360525/) using conjoint traid method in order to convert the sequence into a new feature space.
+
 * Objectives:
 
     * Screening a subset of protein types for the modeling procedure.
 
-    * Identify a set of valuable features using feature engineering
+    * Extract valuable information from protein sequence.
 
     * Find a model that is effective at predicting PPI and can be readily generalized to other situations.
-
-    * Visualize interactions utilizing network structures (if feasible)
 
 
 
@@ -37,9 +39,5 @@ This project involves the application of deep learning models to predict prote
 
 5. Prediction
 
-6. Visualize network structure (If possible)
-
-
----
-To be continued ...
+6. Evaluation
 
